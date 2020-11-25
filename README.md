@@ -1,7 +1,7 @@
 # gofmt
 gofmt basics
 
-# go datatype
+    go datatype
     -uint8       unsigned  8-bit integers (0 to 255)
     -uint16      unsigned 16-bit integers (0 to 65535)
     -uint32      unsigned 32-bit integers (0 to 4294967295)
